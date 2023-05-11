@@ -4,8 +4,8 @@ This repository showcases an implementation of UICollectionViewFlowLayout within
 
 ## Key Implementations:
 
-- **UICollectionViewFlowLayout:** *Implemented through a custom class to exhibit items vertically with scaling and fade in/out effects.*
-- **SwiftUI and UIViewRepresentable:** *Demonstrates the interoperability of SwiftUI and UIKit by leveraging UIViewRepresentable for integrating UICollectionViewFlowLayout into SwiftUI.*
+- **UICollectionViewFlowLayout:** Implemented through a custom class to exhibit items vertically with scaling and fade in/out effects.
+- **SwiftUI and UIViewRepresentable:** Demonstrates the interoperability of SwiftUI and UIKit by leveraging UIViewRepresentable for integrating UICollectionViewFlowLayout into SwiftUI.
 
 ## Walkthrough:
 
